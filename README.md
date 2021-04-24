@@ -68,6 +68,9 @@ Go to `Admin Panel > Stores > Settings > Configuration > Magepow > Product Zoom`
 * z-index window zoom
 * Zoom window width: Width of the zoom Window.
 * Zoom window height: Height of the zoom Window.
+
+![Window](https://github.com/magepow/magento-2-product-zoom/blob/main/media/window-2.jpg)
+
 * Zoom Window FadeIn: You can fade in on the Window.
 * Zoom Window FadeOut: You can fade out on the Window.
 * Lens Shape and Window Shape: Shape of the lens or window.
@@ -82,12 +85,16 @@ Go to `Admin Panel > Stores > Settings > Configuration > Magepow > Product Zoom`
 * Border Colour: Border Colour of the Zoom Box
 * Easing: You can use the default easing or a custom easing setting. The amount of easing can also be altered - default is 12, set higher for more, lower for less
 
+![Window](https://github.com/magepow/magento-2-product-zoom/blob/main/media/window-1.jpg)
+
 ##### If you choose the Inner you will need to setting:
 
 * Cursor
 * Responsive
 * Image Cross Fade
 * Easing
+
+![Inner](https://github.com/magepow/magento-2-product-zoom/blob/main/media/inner.png)
 
 ##### If you choose the Lens you will need to setting:
 
@@ -99,6 +106,9 @@ Go to `Admin Panel > Stores > Settings > Configuration > Magepow > Product Zoom`
 * Lens Shape and Window Shape
 * Contain Lens Zoom: This makes sure the lens does not fall outside the outside of the image.
 * Lens Colour and window Colour
+
+![Lens](https://github.com/magepow/magento-2-product-zoom/blob/main/media/lens-1.jpg)
+
 * Lens Opacity
 * Tint	
 * Tint Colour	
@@ -108,6 +118,8 @@ Go to `Admin Panel > Stores > Settings > Configuration > Magepow > Product Zoom`
 * Border Size	
 * Border Colour
 * Easing
+
+![Lens](https://github.com/magepow/magento-2-product-zoom/blob/main/media/lens-2.png)
 
 ### This Is Result In Frontend
 ![config-module-img](https://github.com/magepow/magento-2-product-zoom/blob/main/media/frontend-.gif)
