@@ -52,6 +52,7 @@ Install according to [the instructions](https://docs.alothemes.com/m2/extension/
 #### Enable Magento 2 Product Zoom
 Go to `Admin Panel > Stores > Settings > Configuration > Magepow > Product Zoom`
 Select `Yes` to enable module.
+
 ![enable-module-img](https://github.com/magepow/magento-2-product-zoom/blob/main/media/enable-1.png)
 
 #### Setting Magento 2 Product Zoom
