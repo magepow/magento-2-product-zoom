@@ -10,7 +10,7 @@ This extension allows customers to enlarge product images to see details that th
 
 - Window zoom: Positioning the window can be done by setting a default position and then using x and y offset to adjust. You can also position the window into a container. The administrator can customize the size of the Zoom window (width, height) and zoom window offset (x-axis, y-axis) in the admin panel.
 
-![Window zoom](https://github.com/magepow/magento-2-product-zoom/blob/main/media/zoom-type-windown.png)
+![Window zoom](https://github.com/magepow/magento-2-product-zoom/blob/main/media/window-zoom.gif)
 
 - Inner Zoom: the zoom can be placed inside of the image
 
