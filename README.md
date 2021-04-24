@@ -47,37 +47,69 @@ Download [Magento 2 Product Zoom](https://magepow.com/magento-2-product-zoom.htm
 
 Install according to [the instructions](https://docs.alothemes.com/m2/extension/productzoom/) for use.
 
-
-## Magepow Product Zoom user guide
+## Magento 2 Product Zoom user guide
 ### General Configuration
-#### Enable Magepow Product Zoom
+#### Enable Magento 2 Product Zoom
 Go to `Admin Panel > Stores > Settings > Configuration > Magepow > Product Zoom`
+Select `Yes` to enable module.
 ![enable-module-img](https://github.com/magepow/magento-2-product-zoom/blob/main/media/enable-1.png)
 
-Select `Yes` to enable module.
-#### Setting Magepow Product Zoom
+#### Setting Magento 2 Product Zoom
 Go to `Admin Panel > Stores > Settings > Configuration > Magepow > Product Zoom`
+
 ![config-module-img](https://github.com/magepow/magento-2-product-zoom/blob/main/media/backend-11.png)
-* Set to true to activate zoom on mouse scroll. Possible Values: "True", "False"
-* Set Zoom Type : Outside, Inside, Lens.
-* Set Zoom Window Position : Select one value from 1 to 18 like as image
-* Set z-index window zoom
-* Set with of window zoom in Zoom window width
-* Set height of window zoom in Zoom window height
-![config-module-img](https://github.com/magepow/magento-2-product-zoom/blob/main/media/backend-12.png)
-* Set zoom window offetx : x-axis offset of the zoom window
-* Set zoom window offety : y-axis offset of the zoom window
-* Set Zoom Window FadeIn : Set as a number e.g 200 for speed of Window fadeIn
-* Set Lens Zoom : enable a tint overlay, other options: true
-* Set Tint Colour : colour of the tint, can be #hex, word (red, blue), or rgb(x, x, x)
-* Set Tint Opacity : opacity of the tint
-![config-module-img](https://github.com/magepow/magento-2-product-zoom/blob/main/media/backend-14.png)
-* Set Cursor : The default cursor is usually the arrow, if using a lightbox, then set the cursor to pointer so it looks clickable - Options are default, cursor, crosshair
-* Set Responsive : Set to true to activate responsivenes. If you have a theme which changes size, or tablets which change orientation this is needed to be on. Possible Values: "True", "False"
-* Set Image Cross Fade : Set to true to activate simultaneous crossfade of images on gallery change. Possible Values: "True", "False"
-* Set Border Size : Border Size of the ZoomBox - Must be set here as border taken into account for plugin calculations
-* Set Border Colour : Select Border Colour
-* Set Easing : Set to true to activate easing. Possible Values: "True", "False"
+
+* Zoom Type: Choose 1 of 3 types of Window, Inner or Lens.
+
+##### If you choose the Window you will need to setting:
+
+* Zoom Window Position: Positioning the window can be done in by setting a default position, and then using x and y offset to adjust.
+* zoom window offetx: x-axis offset of the zoom window.
+* zoom window offety: y-axis offset of the zoom window.
+* z-index window zoom
+* Zoom window width: Width of the zoom Window.
+* Zoom window height: Height of the zoom Window.
+* Zoom Window FadeIn: You can fade in on the Window.
+* Zoom Window FadeOut: You can fade out on the Window.
+* Lens Shape and Window Shape: Shape of the lens or window.
+* Lens Colour and window Colour: Colour of the lens or window background.
+* Tint: You can easily set tints for the zoom.
+* Tint Colour: you can set the colour of the tint overlay to be any value.
+* Tint Opacity: you can set the opacity of the tint overlay to be any value.
+* Cursor: Change pointer shape with 3 styles as default, pointer or cross.
+* Responsive: Set to true to activate responsivenes. If you have a theme which changes size, or tablets which change orientation this is needed to be on.
+* Image Cross Fade: Set to true to activate simultaneous crossfade of images on gallery change. 
+* Border Size: Border Size of the Zoom Box	
+* Border Colour: Border Colour of the Zoom Box
+* Easing: You can use the default easing or a custom easing setting. The amount of easing can also be altered - default is 12, set higher for more, lower for less
+
+##### If you choose the Inner you will need to setting:
+
+* Cursor
+* Responsive
+* Image Cross Fade
+* Easing
+
+##### If you choose the Lens you will need to setting:
+
+* Lens Size: The size of the lens.
+* Lens FadeIn: You can fade in on the Lens.
+* Lens FadeOut: You can fade in out the Lens.
+* Zoom Lens: set to false to hide the Lens.
+* Lens Border: Width in pixels of the lens border. 
+* Lens Shape and Window Shape
+* Contain Lens Zoom: This makes sure the lens does not fall outside the outside of the image.
+* Lens Colour and window Colour
+* Lens Opacity
+* Tint	
+* Tint Colour	
+* Tint Opacity
+* Responsive
+* Image Cross Fade
+* Border Size	
+* Border Colour
+* Easing
+
 ### This Is Result In Frontend
 ![config-module-img](https://github.com/magepow/magento-2-product-zoom/blob/main/media/frontend-.gif)
 
