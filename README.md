@@ -57,8 +57,6 @@ Select `Yes` to enable module.
 #### Setting Magento 2 Product Zoom
 Go to `Admin Panel > Stores > Settings > Configuration > Magepow > Product Zoom`
 
-![config-module-img](https://github.com/magepow/magento-2-product-zoom/blob/main/media/backend-11.png)
-
 * Zoom Type: Choose 1 of 3 types of Window, Inner or Lens.
 
 ##### If you choose the Window you will need to setting:
