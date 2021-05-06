@@ -124,41 +124,29 @@ Go to `Admin Panel > Stores > Settings > Configuration > Magepow > Product Zoom`
 ### This Is Result In Frontend
 ![config-module-img](https://github.com/magepow/magento-2-product-zoom/blob/main/media/frontend-.gif)
 
-**Our Magento Extensions**
+**[Our Magento 2 Extensions](https://magepow.com/magento-2-extensions.html)**
 
 * [Magento 2 Recent Sales Notification](https://magepow.com/magento-2-recent-sales-notification.html)
 
-* [Magento 2 Categories Extension](https://magepow.com/magento-categories-extension.html)
+* [Magento Categories Extension](https://magepow.com/magento-categories-extension.html)
 
-* [Magento 2 Sticky Cart](https://magepow.com/magento-sticky-cart.html)
+* [Magento Sticky Cart](https://magepow.com/magento-sticky-cart.html)
 
-* [Magento 2 Pages Speed Optimizer](https://magepow.com/magento-speed-optimizer.html)
+* [Magento Ajax Contact](https://magepow.com/magento-ajax-contact-form.html)
+
+* [Magento Lazy Load](https://magepow.com/magento-lazy-load.html)
 
 * [Magento 2 Mutil Translate](https://magepow.com/magento-multi-translate.html)
 
 * [Magento 2 Instagram Integration](https://magepow.com/magento-2-instagram.html)
 
-* [Magento 2 Lookbook Pin Products](https://magepow.com/lookbook-pin-products.html)
+* [Lookbook Pin Products](https://magepow.com/lookbook-pin-products.html)
 
-**Featured Magento Themes**
+* [Magento Product Slider](https://magepow.com/magento-product-slider.html)
 
-* [Expert Multipurpose responsive Magento 2 Theme](https://1.envato.market/c/1314680/275988/4415?u=https://themeforest.net/item/expert-premium-responsive-magento-2-and-1-support-rtl-magento-2-/21667789)
+* [Magento Product Banner](https://magepow.com/magento-banner-slider.html)
 
-* [Gecko Premium responsive Magento 2 Theme](https://1.envato.market/c/1314680/275988/4415?u=https://themeforest.net/item/gecko-responsive-magento-2-theme-rtl-supported/24677410)
-
-* [Milano Fashion responsive Magento 2 Theme](https://1.envato.market/c/1314680/275988/4415?u=https://themeforest.net/item/milano-fashion-responsive-magento-1-2-theme/12141971)
-
-* [Electro responsive Magento 2 Theme](https://1.envato.market/c/1314680/275988/4415?u=https://themeforest.net/item/electro-responsive-magento-1-2-theme/17042067)
-
-* [Pizzaro Food responsive Magento 2 Theme](https://1.envato.market/c/1314680/275988/4415?u=https://themeforest.net/item/pizzaro-food-responsive-magento-1-2-theme/19438157)
-
-* [Biolife Organic responsive Magento 2 Theme](https://1.envato.market/c/1314680/275988/4415?u=https://themeforest.net/item/biolife-organic-food-magento-2-theme-rtl-supported/25712510)
-
-* [Market responsive Magento 2 Theme](https://1.envato.market/c/1314680/275988/4415?u=https://themeforest.net/item/market-responsive-magento-2-theme/22997928)
-
-* [Kuteshop responsive Magento 2 Theme](https://1.envato.market/c/1314680/275988/4415?u=https://themeforest.net/item/kuteshop-multipurpose-responsive-magento-1-2-theme/12985435)
-
-**Featured Magento Services**
+**[Our Magento services](https://magepow.com/magento-services.html)**
 
 * [PSD to Magento 2 Theme Conversion](https://magepow.com/psd-to-magento-theme-conversion.html)
 
@@ -176,3 +164,26 @@ Go to `Admin Panel > Stores > Settings > Configuration > Magepow > Product Zoom`
 
 * [Hire Magento Developer](https://magepow.com/hire-magento-developer.html)
 
+**[Our Magento Themes](https://alothemes.com/)**
+
+* [Expert Multipurpose Responsive Magento 2 Theme](https://1.envato.market/c/1314680/275988/4415?u=https://themeforest.net/item/expert-premium-responsive-magento-2-and-1-support-rtl-magento-2-/21667789)
+
+* [Gecko Premium Responsive Magento 2 Theme](https://1.envato.market/c/1314680/275988/4415?u=https://themeforest.net/item/gecko-responsive-magento-2-theme-rtl-supported/24677410)
+
+* [Milano Fashion Responsive Magento 2 Theme](https://1.envato.market/c/1314680/275988/4415?u=https://themeforest.net/item/milano-fashion-responsive-magento-1-2-theme/12141971)
+
+* [Electro 2 Responsive Magento 2 Theme](https://1.envato.market/c/1314680/275988/4415?u=https://themeforest.net/item/electro2-premium-responsive-magento-2-rtl-supported/26875864)
+
+* [Electro Responsive Magento 2 Theme](https://1.envato.market/c/1314680/275988/4415?u=https://themeforest.net/item/electro-responsive-magento-1-2-theme/17042067)
+
+* [Pizzaro Food responsive Magento 2 Theme](https://1.envato.market/c/1314680/275988/4415?u=https://themeforest.net/item/pizzaro-food-responsive-magento-1-2-theme/19438157)
+
+* [Biolife organic responsive Magento 2 Theme](https://1.envato.market/c/1314680/275988/4415?u=https://themeforest.net/item/biolife-organic-food-magento-2-theme-rtl-supported/25712510)
+
+* [Market responsive Magento 2 Theme](https://1.envato.market/c/1314680/275988/4415?u=https://themeforest.net/item/market-responsive-magento-2-theme/22997928)
+
+* [Kuteshop responsive Magento 2 Theme](https://1.envato.market/c/1314680/275988/4415?u=https://themeforest.net/item/kuteshop-multipurpose-responsive-magento-1-2-theme/12985435)
+
+* [Bencher - Responsive Magento 2 Theme](https://1.envato.market/c/1314680/275988/4415?u=https://themeforest.net/item/bencher-responsive-magento-1-2-theme/15787772)
+
+* [Supermarket Responsive Magento 2 Theme](https://1.envato.market/c/1314680/275988/4415?u=https://themeforest.net/item/supermarket-responsive-magento-1-2-theme/18447995)
