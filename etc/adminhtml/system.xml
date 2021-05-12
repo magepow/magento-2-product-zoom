@@ -11,47 +11,18 @@
         <tab id="magepow" translate="label" sortOrder="86">
             <label>Magepow</label>
         </tab>
-        <section id="magepow_zoom" translate="label" type="text" sortOrder="100" showInDefault="1" showInWebsite="1" showInStore="1">
+        <section id="magepow_productzoom" translate="label" type="text" sortOrder="100" showInDefault="1" showInWebsite="1" showInStore="1">
             <class>separator-top</class>
-            <label>Zoom</label>
+            <label>Product Zoom</label>
             <tab>magepow</tab>
-            <resource>Magepow_Zoom::config</resource>
+            <resource>Magepow_Productzoom::config_productzoom</resource>
             <group id="general" translate="label" type="text" sortOrder="5" showInDefault="1" showInWebsite="1" showInStore="1">
                 <label>General</label>
-
                 <field id="enabled" translate="label comment" type="select" sortOrder="0"  showInDefault="1" showInWebsite="1" showInStore="1" canRestore="1">
                     <label>Enabled</label>
                     <comment>Enabled Module</comment>
                     <source_model>Magento\Config\Model\Config\Source\Yesno</source_model>
                 </field>
-
-                <field id="on" translate="label comment" type="select" sortOrder="20"  showInDefault="1" showInWebsite="1" showInStore="1" canRestore="1">
-                    <label>Zoom Event</label>
-                    <comment>mouseover', grab, click, toggle</comment>
-                    <source_model>Magepow\Zoom\Model\Config\Source\Type</source_model>
-                </field>
-
-                <field id="target" translate="label comment" type="text" sortOrder="10"  showInDefault="1" showInWebsite="1" showInStore="1" canRestore="1">
-                    <label>Target</label>
-                    <validate>validate-digits validate-greater-than-zero</validate>
-                </field>
-
-                <field id="magnify" translate="label comment" type="text" sortOrder="10"  showInDefault="1" showInWebsite="1" showInStore="1" canRestore="1">
-                    <label>Magnify</label>
-                    <validate>validate-digits validate-greater-than-zero</validate>
-                </field>
-
-                <field id="duration" translate="label comment" type="text" sortOrder="10"  showInDefault="1" showInWebsite="1" showInStore="1" canRestore="1">
-                    <label>Duration</label>
-                    <validate>validate-digits validate-greater-than-zero</validate>
-                </field>
-
-                <field id="touch" translate="label comment" type="select" sortOrder="30"  showInDefault="1" showInWebsite="1" showInStore="1" canRestore="1">
-                    <label>Touch</label>
-                    <comment>enables a touch fallback</comment>
-                    <source_model>Magepow\Zoom\Model\Config\Source\Truefalse</source_model>
-                </field>
-
             </group>
         </section>
     </system>

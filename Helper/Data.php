@@ -2,11 +2,11 @@
 /**
  * @Author: nguyen
  * @Date:   2020-02-12 14:01:01
- * @Last Modified by:   nguyen
- * @Last Modified time: 2021-05-12 11:53:21
+ * @Last Modified by:   Alex Dong
+ * @Last Modified time: 2020-07-09 16:31:52
  */
 
-namespace Magepow\Zoom\Helper;
+namespace Magepow\Productzoom\Helper;
 
 class Data extends \Magento\Framework\App\Helper\AbstractHelper
 {

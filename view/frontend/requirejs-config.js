@@ -1,9 +1,9 @@
 var config = {
 	paths: {
-		'magepow/zoom'	: 'Magepow_Zoom/js/plugin/jquery.zoom.min',
+		'magepow/elevatezoom'	: 'Magepow_Productzoom/js/plugins/jquery.elevatezoom',
 	},
 	shim: {
-		'magepow/zoom': {
+		'magepow/elevatezoom': {
 			deps: ['jquery']
 		}
 	}

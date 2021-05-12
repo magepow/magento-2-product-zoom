@@ -7,18 +7,33 @@
  */ -->
 <config xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:magento:module:Magento_Store:etc/config.xsd">
 	<default>
-	    <magepow_zoom>
+	    <magepow_productzoom>
             <general>
                 <enabled>1</enabled>
-                <duration>120</duration>
-                <magnify>1</magnify>
-                <target>false</target>
-                <on>mouseover</on>
-                <touch>true</touch>
-                <onZoomIn>false</onZoomIn>
-                <onZoomOut>false</onZoomOut>
-                <target>false</target>
+                <responsive>false</responsive>
+                <scrollZoom>false</scrollZoom>
+                <zoomType>inner</zoomType>
+                <zoomWindowPosition>1</zoomWindowPosition>
+                <zoomWindowFadeIn>true</zoomWindowFadeIn>
+                <zoomWindowFadeOut>true</zoomWindowFadeOut>
+                <zIndex>99</zIndex>
+                <imageCrossfade>false</imageCrossfade>
+                <loadingIcon>false</loadingIcon>
+                <cursor>default</cursor>
+                <borderSize>1</borderSize>
+                <borderColour>#666</borderColour>
+                <easing>false</easing>
+                <easingType>zoomdefault</easingType>
+                <easingDuration>2000</easingDuration>
+                <lensShape>square</lensShape>
+                <lensFadeIn>false</lensFadeIn>
+                <lensFadeOut>false</lensFadeOut>
+                <lensBorder>1</lensBorder>
+                <lensColour>#fff</lensColour>
+                <lensOpacity>0.4</lensOpacity>
+                <tintColour>#333</tintColour>
+                <tintOpacity>0.4</tintOpacity>
             </general>
-        </magepow_zoom>    
+        </magepow_productzoom>    
 	</default>
 </config>

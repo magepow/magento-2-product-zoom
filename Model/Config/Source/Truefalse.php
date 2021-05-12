@@ -4,10 +4,10 @@
  * @Author: nguyen
  * @Date:   2020-07-09 20:12:00
  * @Last Modified by:   nguyen
- * @Last Modified time: 2021-05-12 11:53:20
+ * @Last Modified time: 2020-07-09 20:12:44
  */
 
-namespace Magepow\Zoom\Model\Config\Source;
+namespace Magepow\Productzoom\Model\Config\Source;
 
 class Truefalse implements \Magento\Framework\Option\ArrayInterface
 {

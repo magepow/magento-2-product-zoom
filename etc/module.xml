@@ -6,5 +6,5 @@
  * @Last Modified time: 2020-02-15 18:55:34
  */ -->
 <config xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:magento:framework:Module/etc/module.xsd">
-    <module name="Magepow_Zoom" setup_version="2.0"/>
+    <module name="Magepow_Productzoom" setup_version="2.0"/>
 </config>

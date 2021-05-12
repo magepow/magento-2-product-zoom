@@ -1,6 +1,6 @@
 <?php
 $jsonHelper = $this->helper('Magento\Framework\Json\Helper\Data');
-$helper     = $this->helper('Magepow\Zoom\Helper\Data');
+$helper     = $this->helper('Magepow\Productzoom\Helper\Data');
 $data       = $helper->getConfigModule('general');
 foreach ($data as $key => $value) {
     if(is_numeric($value)){
@@ -16,26 +16,26 @@ foreach ($data as $key => $value) {
 <script type="text/javascript">
     require([
         'jquery',
-        'magepow/zoom',
+        'magepow/elevatezoom',
         ], function($){
             "use strict";
 
             if( $(window).width() < 768 ) return;
             var options = <?php echo is_array($data) ? $jsonHelper->jsonEncode($data) : '{}' ?>;
-            $('head').append('<style type="text/css">.fotorama--fullscreen .zoomImg {display: none !important;}</style>');
+            $('head').append('<style type="text/css">.zoomContainer{z-index:' + options.zIndex + '}</style>');
             $(document).on('fotorama:load fotorama:showend fotorama:fullscreenenter fotorama:fullscreenexit', function (event, fotorama, extra) {
+                $('.zoomContainer').remove();
                 if(event.type == 'fotorama:fullscreenenter') return;
                 if( fotorama.activeFrame.type != 'image' || $('body').hasClass('fotorama__fullscreen') ) return;
-                var element = $('.product.media .fotorama__stage .fotorama__active');
-                if(!element.length) return;
-                var img     = element.find('img');
-                if(!img.length || img.hasClass('zoomImg')) return;
+                var img = $('.product.media .fotorama__stage .fotorama__active .fotorama__img');
+                if(!img.length) return;
                 var defaults = {
-                    url: fotorama.activeFrame.full
+                    zoomWindowWidth : img.width(),
+                    zoomWindowHeight: img.height()
                 };
                 var settings = $.extend(defaults, options);
-                element.zoom(settings);                
+                if(fotorama.activeFrame.full) img.data('zoom-image', fotorama.activeFrame.full);
+                img.elevateZoom(settings);
             });
-
     });
 </script>
