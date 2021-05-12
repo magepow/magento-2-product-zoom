@@ -7,7 +7,7 @@
 	            <resource id="Magento_Backend::stores">
 	                <resource id="Magento_Backend::stores_settings">
 	                    <resource id="Magento_Config::config">
-	                        <resource id="Magepow_Productzoom::config_productzoom" title="Product Zoom" />
+	                        <resource id="Magepow_Productzoom::config" title="Product Zoom" />
 	                    </resource>
 	                </resource>
 	            </resource>
