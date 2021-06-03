@@ -41,6 +41,14 @@ This extension allows customers to enlarge product images to see details that th
 
 - Customize Tints
 
+**Pro version with outstanding features**
+
+| Features  | Free Version  | Pro Version |
+| :------------ |:---------------:| :-----:|
+|Inner zoom|:white_check_mark:|:white_check_mark:|
+|Window zoom|X|:white_check_mark:|
+|Lens zoom|X|:white_check_mark:|
+
 ## How to download and install Magento 2 Product Zoom
 
 Download [Magento 2 Product Zoom](https://magepow.com/magento-2-product-zoom.html)
