@@ -1,3 +1,5 @@
+[<img src="https://github.com/magepow/themeforest/blob/master/shopify/shopify_affiliate.jpg" >](https://shopify.pxf.io/VyL446)
+
 ## Magento 2 Product image zoom extension 
 
 You are selling products on Magento online stores, Magento 2 Product zoom extension will help customers see your products in the clearest and most detailed way.
